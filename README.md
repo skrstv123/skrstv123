@@ -13,7 +13,7 @@ Hope your journey through my repositories will be !boring.
 <summary>⚡️ More about my coding life</summary>
 <br />
 
-![StopStalk profile](https://www.stopstalk.com/user/profile/skrstv123)
+[![StopStalk profile](https://img.shields.io/static/v1?style=flat-square&logo=codechef&label=&message=@stopstalk&color=5b5b5b&labelColor=5b5b5b)](https://www.stopstalk.com/user/profile/skrstv123)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skrstv123&layout=compact&hide=css,html)
 
