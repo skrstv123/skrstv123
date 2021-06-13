@@ -4,7 +4,7 @@ Hope your journey through my repositories will be !boring.
 
 📫  How to reach me?
 
-![[fb](https://img.shields.io/static/v1?style=flat-square&logo=facebook&label=&message=@skrstv123&color=5b5b5b&labelColor=5b5b5b)](https://facebook.com/skrstv123)
+[![fb](https://img.shields.io/static/v1?style=flat-square&logo=facebook&label=&message=@skrstv123&color=5b5b5b&labelColor=5b5b5b)](https://facebook.com/skrstv123)
 [![twitter](https://img.shields.io/static/v1?style=flat-square&logo=twitter&label=&message=@skrstv123&color=5b5b5b&labelColor=5b5b5b)](https://twitter.com/skrstv123)
 [![github](https://img.shields.io/static/v1?style=flat-square&logo=github&label=&message=@skrstv123&color=5b5b5b&labelColor=5b5b5b)](https://github.com/skrstv123)
 [![telegram](https://img.shields.io/static/v1?style=flat-square&logo=telegram&label=&message=@skrstv123&color=5b5b5b&labelColor=5b5b5b)](https://t.me/skrstv123)
