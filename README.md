@@ -17,7 +17,7 @@ Hope your journey through my repositories will be !boring.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skrstv123&layout=compact&hide=css,html)
 
-![skrstv123's github stats](https://github-readme-stats.vercel.app/api?username=skrstv123&count_private=true&show_icons=true&theme=onedark)
+![skrstv123's github stats](https://github-readme-stats.vercel.app/api?username=skrstv123&count_private=true&show_icons=true&theme=default)
 
 </details>
 
