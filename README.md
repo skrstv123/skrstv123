@@ -6,7 +6,7 @@ Hope your journey through my repositories will be !boring.
 
 ![fb](https://img.shields.io/static/v1?style=flat-square&logo=facebook&label=&message=@skrstv123&color=5b5b5b&labelColor=5b5b5b)
 [![twitter](https://img.shields.io/static/v1?style=flat-square&logo=twitter&label=&message=@skrstv123&color=5b5b5b&labelColor=5b5b5b)](https://twitter.com/skrstv123?lang=en)
-[![github](https://img.shields.io/static/v1?style=flat-square&logo=github&label=&message=@zheeeng&color=5b5b5b&labelColor=5b5b5b)](https://github.com/skrstv123)
+[![github](https://img.shields.io/static/v1?style=flat-square&logo=github&label=&message=@skrstv123&color=5b5b5b&labelColor=5b5b5b)](https://github.com/skrstv123)
 [![telegram](https://img.shields.io/static/v1?style=flat-square&logo=telegram&label=&message=@skrstv123&color=5b5b5b&labelColor=5b5b5b)](https://t.me/skrstv123)
 
 <details>
